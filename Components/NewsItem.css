@@ -1,0 +1,12 @@
+.itemImage {
+  display: block;
+  width: 100%;
+  height: 100px;
+  background-color: antiquewhite;
+}
+
+.itemContainerView {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
